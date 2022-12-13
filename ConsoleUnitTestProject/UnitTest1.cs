@@ -7,7 +7,7 @@ namespace ConsoleUnitTestProject
     [TestClass]
     public class UnitTest1
     {
-        private const string Expected = "Hello World! from Digital Greening";
+        private const string Expected = "Hello World! from Digital Greening!!!";
 
         [TestMethod]
         public void TestMethod1()
